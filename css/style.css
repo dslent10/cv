@@ -1,0 +1,13 @@
+body {
+  background-color:#87dfd6;
+}
+hr {
+  border-style: none;
+  border-color: green;
+  border-top-style: dashed;
+  width: 30%;
+  border-width: 5px
+}
+img {height: 200px;}
+h1 {color: #66BFBF}
+h3 {color: #092532}
